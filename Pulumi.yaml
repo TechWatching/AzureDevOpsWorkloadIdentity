@@ -1,0 +1,3 @@
+name: AzureDevOpsWorkloadIdentity
+runtime: dotnet
+description: A program to set up an Azure-Ready Azure DevOps repository

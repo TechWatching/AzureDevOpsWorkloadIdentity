@@ -1,0 +1,5 @@
+config:
+  azuredevops:orgServiceUrl:
+    secure: AAABADmmha/+7hE1h88wcq3ufQEad7G2m4tr6rCtmhOz/u6To8Uyvmkm9HNAb+P7VhUbrM3NZ28iOOODBJyW/9xw+Q==
+  azuredevops:personalAccessToken:
+    secure: AAABAMY8AhqTGMuPdcDidDmcmcLtHRX9HFF69N551JECLQqU1KBy4767NkXaeZxYwtdvMLEpnS1+tK1JgwTAyb3xy3Q9ghJQCjtBTxwCDAL+leR1
