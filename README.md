@@ -8,7 +8,7 @@ This code is a Pulumi .NET program that can be executed from the Pulumi CLI. Whe
 - an Azure Project configured with a Git repository, an ARM service connection and a pre-configured pipeline
 - a Microsoft Entra ID app registration, its associated Service Principal and a Federated Identity Credential
 
-![azuredevopsoidc_schema_2](https://github.com/TechWatching/AzureDevOpsWorkloadIdentity/assets/15186176/c8b5b250-9e1d-4f4e-8e7d-ff685343eb3d)
+![azuredevopsoidc_schema_2](https://github.com/TechWatching/AzureDevOpsWorkloadIdentity/assets/15186176/51d063a8-0dbd-4c13-94b8-63f71d98ce5e)
 
 I suggest you to read [the article](https://www.techwatching.dev/posts/ado-workload-identity-federation) before using this code. And if you are not familiar with Pulumi you should check their [documentation](https://www.pulumi.com/docs/) or [learning pathways](https://www.pulumi.com/learn/) too.
 
